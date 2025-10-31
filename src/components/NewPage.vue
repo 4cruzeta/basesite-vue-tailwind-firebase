@@ -1,0 +1,79 @@
+<template>
+<div class="container relative flex flex-col justify-between h-full max-w-6xl px-10 mx-auto xl:px-0 mt-5">
+  <h2 class="mb-1 text-3xl font-extrabold leading-tight text-gray-900">EDCAT Home Page</h2>
+  <p class="mb-12 text-lg text-gray-500">Welcome to our new website!<br>We're adjusting our system to make our services available in this space.</p>
+  
+  <!-- Service Cards Grid -->
+  <div class="grid grid-cols-1 sm:grid-cols-2 gap-10">
+
+    <!-- Card 1: CuReMAIn -->
+    <div class="relative h-full">
+      <span class="absolute top-0 left-0 w-full h-full mt-1 ml-1 bg-indigo-500 rounded-lg"></span>
+      <div class="relative h-full p-5 bg-white border-2 border-indigo-500 rounded-lg">
+        <div class="flex items-center -mt-1">
+          <h3 class="my-2 ml-3 text-lg font-bold text-gray-800">CuReMAIn<br>(Customer Relationship Maganer with AI)</h3>
+        </div>
+        <p class="mt-3 mb-1 text-xs font-medium text-indigo-500 uppercase">------------</p>
+        <p class="mb-2 text-gray-600">Your company's relationship with its customers is the foundation for new business and maintaining its presence in today's competitive market.<br> With our AI-powered customer tracking system, this task, which requires highly skilled personnel, can be optimized by using intelligent queries to your databases and product documentation.</p>
+      </div>
+    </div>
+
+    <!-- Card 2: RAGA -->
+    <div class="relative h-full">
+      <span class="absolute top-0 left-0 w-full h-full mt-1 ml-1 bg-purple-500 rounded-lg"></span>
+      <div class="relative h-full p-5 bg-white border-2 border-purple-500 rounded-lg">
+        <div class="flex items-center -mt-1">
+          <h3 class="my-2 ml-3 text-lg font-bold text-gray-800">RAGA<br>(Retrieval-Augmented Generation Agent)</h3>
+        </div>
+        <p class="mt-3 mb-1 text-xs font-medium text-purple-500 uppercase">------------</p>
+        <p class="mb-2 text-gray-600">We develop custom agents to automatically respond to your customers.<br>Based on a database, we can develop an agent that answers specific questions collected from previous experiences with the CuReMAIn system or from a product manual manufactured by the company.</p>
+      </div>
+    </div>
+
+    <!-- Card 3: CybSeS -->
+    <div class="relative h-full">
+      <span class="absolute top-0 left-0 w-full h-full mt-1 ml-1 bg-blue-400 rounded-lg"></span>
+      <div class="relative h-full p-5 bg-white border-2 border-blue-400 rounded-lg">
+        <div class="flex items-center -mt-1">
+          <h3 class="my-2 ml-3 text-lg font-bold text-gray-800">CybSeS<br>(Cyber Security Supremacy)</h3>
+        </div>
+        <p class="mt-3 mb-1 text-xs font-medium text-blue-400 uppercase">------------</p>
+        <p class="mb-2 text-gray-600">Cybersecurity has entered a new era in 2025, where artificial intelligence can be used as a shield, but unfortunately, it is also used as a sword on a digital battlefield that is becoming increasingly sophisticated every day.<br>We have the expertise and tools to ensure the security of your data in this new battleground.</p>
+      </div>
+    </div>
+
+    <!-- Card 4: ConSISO -->
+    <div class="relative h-full">
+      <span class="absolute top-0 left-0 w-full h-full mt-1 ml-1 bg-yellow-400 rounded-lg"></span>
+      <div class="relative h-full p-5 bg-white border-2 border-yellow-400 rounded-lg">
+        <div class="flex items-center -mt-1">
+          <h3 class="my-2 ml-3 text-lg font-bold text-gray-800">ConSISO<br>(Consulting for ISO)</h3>
+        </div>
+        <p class="mt-3 mb-1 text-xs font-medium text-yellow-400 uppercase">------------</p>
+        <p class="mb-2 text-gray-600">Consulting for the implementation of ISO 27001 and 42001 standards.<br>Preparing a company for ISO certification requires preparing a series of documents, planning various control procedures, and checking their effectiveness.<br>We have a qualified technical team to provide the necessary consultancy to achieve success in first or second-party certification.</p>
+      </div>
+    </div>
+
+    <!-- Card 5: TOPS -->
+    <div class="relative h-full">
+      <span class="absolute top-0 left-0 w-full h-full mt-1 ml-1 bg-green-500 rounded-lg"></span>
+      <div class="relative h-full p-5 bg-white border-2 border-green-500 rounded-lg">
+        <div class="flex items-center -mt-1">
+          <h3 class="my-2 ml-3 text-lg font-bold text-gray-800">TOPS<br>(Total On Premisses Support)</h3>
+        </div>
+        <p class="mt-3 mb-1 text-xs font-medium text-green-500 uppercase">------------</p>
+        <p class="mb-2 text-gray-600">Consulting for implementing your company's IT infrastructure.<br>Even if you use our Cloud solutions, you still need a network of computers installed in your company for your employees to perform their tasks.<br>We provide consulting for this implementation, from the basics, such as providing quality electrical power, which is the minimum required for all systems to function properly. Even migrate and use your systems in the cloud.<br>If you're like some of our clients who insist on keeping your entire infrastructure offline, don't worry, we have solutions for you too.</p>
+      </div>
+    </div>
+
+  </div>
+</div>
+</template>
+
+<script setup>
+// Lógica do componente (se necessário)
+</script>
+
+<style scoped>
+/* Estilos específicos do componente */
+</style>
