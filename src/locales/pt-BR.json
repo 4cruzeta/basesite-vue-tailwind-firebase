@@ -1,0 +1,28 @@
+{
+  "home": {
+    "title": "Página Inicial do EDCAT",
+    "subtitle": "Bem-vindo ao nosso novo site!<br>Estamos ajustando nosso sistema para disponibilizar nossos serviços neste espaço.",
+    "services": {
+      "curemain": {
+        "title": "CuReMAIn<br>(Gerenciador de Relacionamento com o Cliente com IA)",
+        "description": "O relacionamento da sua empresa com seus clientes é a base para novos negócios e para manter sua presença no mercado competitivo de hoje.<br> Com nosso sistema de rastreamento de clientes baseado em IA, essa tarefa, que exige pessoal altamente qualificado, pode ser otimizada usando consultas inteligentes em seus bancos de dados e documentação de produtos."
+      },
+      "raga": {
+        "title": "RAGA<br>(Agente de Geração Aumentada por Recuperação)",
+        "description": "Desenvolvemos agentes personalizados para responder automaticamente aos seus clientes.<br>Com base em um banco de dados, podemos desenvolver um agente que responde a perguntas específicas coletadas de experiências anteriores com o sistema CuReMAIn ou de um manual de produto fabricado pela empresa."
+      },
+      "cybses": {
+        "title": "CybSeS<br>(Supremacia em Segurança Cibernética)",
+        "description": "A segurança cibernética entrou em uma nova era em 2025, onde a inteligência artificial pode ser usada como um escudo, mas, infelizmente, também é usada como uma espada em um campo de batalha digital que se torna cada dia mais sofisticado.<br>Temos a expertise e as ferramentas para garantir a segurança dos seus dados neste novo campo de batalha."
+      },
+      "consiso": {
+        "title": "ConSISO<br>(Consultoria para ISO)",
+        "description": "Consultoria para a implementação das normas ISO 27001 e 42001.<br>Preparar uma empresa para a certificação ISO requer a elaboração de uma série de documentos, o planejamento de vários procedimentos de controle e a verificação de sua eficácia.<br>Temos uma equipe técnica qualificada para fornecer a consultoria necessária para alcançar o sucesso na certificação de primeira ou segunda parte."
+      },
+      "tops": {
+        "title": "TOPS<br>(Suporte Total Local)",
+        "description": "Consultoria para implementação da infraestrutura de TI da sua empresa.<br>Mesmo que você use nossas soluções em nuvem, ainda precisa de uma rede de computadores instalada em sua empresa para que seus funcionários realizem suas tarefas.<br>Oferecemos consultoria para essa implementação, desde o básico, como o fornecimento de energia elétrica de qualidade, que é o mínimo necessário para que todos os sistemas funcionem corretamente. Até mesmo migrar e usar seus sistemas na nuvem.<br>Se você é como alguns de nossos clientes que insistem em manter toda a sua infraestrutura offline, não se preocupe, também temos soluções para você."
+      }
+    }
+  }
+}

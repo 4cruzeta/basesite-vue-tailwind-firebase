@@ -1,0 +1,28 @@
+{
+  "home": {
+    "title": "EDCAT Home Page",
+    "subtitle": "Welcome to our new website!<br>We're adjusting our system to make our services available in this space.",
+    "services": {
+      "curemain": {
+        "title": "CuReMAIn<br>(Customer Relationship Maganer with AI)",
+        "description": "Your company's relationship with its customers is the foundation for new business and maintaining its presence in today's competitive market.<br> With our AI-powered customer tracking system, this task, which requires highly skilled personnel, can be optimized by using intelligent queries to your databases and product documentation."
+      },
+      "raga": {
+        "title": "RAGA<br>(Retrieval-Augmented Generation Agent)",
+        "description": "We develop custom agents to automatically respond to your customers.<br>Based on a database, we can develop an agent that answers specific questions collected from previous experiences with the CuReMAIn system or from a product manual manufactured by the company."
+      },
+      "cybses": {
+        "title": "CybSeS<br>(Cyber Security Supremacy)",
+        "description": "Cybersecurity has entered a new era in 2025, where artificial intelligence can be used as a shield, but unfortunately, it is also used as a sword on a digital battlefield that is becoming increasingly sophisticated every day.<br>We have the expertise and tools to ensure the security of your data in this new battleground."
+      },
+      "consiso": {
+        "title": "ConSISO<br>(Consulting for ISO)",
+        "description": "Consulting for the implementation of ISO 27001 and 42001 standards.<br>Preparing a company for ISO certification requires preparing a series of documents, planning various control procedures, and checking their effectiveness.<br>We have a qualified technical team to provide the necessary consultancy to achieve success in first or second-party certification."
+      },
+      "tops": {
+        "title": "TOPS<br>(Total On Premisses Support)",
+        "description": "Consulting for implementing your company's IT infrastructure.<br>Even if you use our Cloud solutions, you still need a network of computers installed in your company for your employees to perform their tasks.<br>We provide consulting for this implementation, from the basics, such as providing quality electrical power, which is the minimum required for all systems to function properly. Even migrate and use your systems in the cloud.<br>If you're like some of our clients who insist on keeping your entire infrastructure offline, don't worry, we have solutions for you too."
+      }
+    }
+  }
+}
